@@ -245,12 +245,11 @@
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
 ## 📊 SYSTEM TELEMETRY
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&bg_color=000000&title_color=1E90FF&text_color=FFFFFF&icon_color=FF0000&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=000000&stroke=1E90FF&ring=FF0000&fire=FF0000&currStreakLabel=1E90FF" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=koshisatoma&theme=highcontrast&hide_border=true&bg_color=000000&title_color=1E90FF&text_color=FFFFFF&icon_color=FF0000&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=koshisatoma&theme=dark&hide_border=true&background=000000&stroke=1E90FF&ring=FF0000&fire=FF0000&currStreakLabel=1E90FF" alt="GitHub Streak"/>
 
 ## 📡 DIRECT UPLINK
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Bilgar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/adarsh-bilgar-94b525261)
 [![Email](https://img.shields.io/badge/Email-koshisatoma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:koshisatoma@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_9036579993-34A853?style=for-the-badge&logo=googlevoice&logoColor=FFFFFF)](tel:+919036579993)
 
 </div>
