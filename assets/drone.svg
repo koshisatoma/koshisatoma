@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200">
+<rect width="420" height="200" fill="#000000"/>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="2.6s" repeatCount="indefinite"/>
+<line x1="210" y1="100" x2="140" y2="62" stroke="#9fb3c8" stroke-width="6"/>
+<line x1="210" y1="100" x2="280" y2="62" stroke="#9fb3c8" stroke-width="6"/>
+<line x1="210" y1="100" x2="140" y2="138" stroke="#9fb3c8" stroke-width="6"/>
+<line x1="210" y1="100" x2="280" y2="138" stroke="#9fb3c8" stroke-width="6"/>
+<rect x="185" y="86" width="50" height="28" rx="9" fill="#E8EEF7" stroke="#FF0000" stroke-width="3"/>
+<circle cx="210" cy="100" r="5" fill="#FF0000"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></circle>
+<g transform="translate(140,62)"><ellipse rx="30" ry="6" fill="none" stroke="#1E90FF" stroke-width="3"><animate attributeName="rx" values="30;6;30" dur="0.22s" repeatCount="indefinite"/></ellipse><circle r="5" fill="#1E90FF"/></g>
+<g transform="translate(280,62)"><ellipse rx="30" ry="6" fill="none" stroke="#1E90FF" stroke-width="3"><animate attributeName="rx" values="30;6;30" dur="0.22s" begin="-0.11s" repeatCount="indefinite"/></ellipse><circle r="5" fill="#1E90FF"/></g>
+<g transform="translate(140,138)"><ellipse rx="30" ry="6" fill="none" stroke="#1E90FF" stroke-width="3"><animate attributeName="rx" values="30;6;30" dur="0.22s" begin="-0.05s" repeatCount="indefinite"/></ellipse><circle r="5" fill="#1E90FF"/></g>
+<g transform="translate(280,138)"><ellipse rx="30" ry="6" fill="none" stroke="#1E90FF" stroke-width="3"><animate attributeName="rx" values="30;6;30" dur="0.22s" begin="-0.16s" repeatCount="indefinite"/></ellipse><circle r="5" fill="#1E90FF"/></g>
+<polygon points="200,114 220,114 250,192 170,192" fill="#1E90FF" opacity="0.15"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="1.8s" repeatCount="indefinite"/></polygon>
+</g>
+</svg>
