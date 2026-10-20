@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240">
+<rect width="420" height="240" fill="#000000"/>
+<rect x="180" y="204" width="80" height="18" rx="6" fill="#2a3442"/>
+<rect x="200" y="90" width="26" height="116" rx="8" fill="#2a3442"/>
+<g transform="translate(213,100)"><g><animateTransform attributeName="transform" type="rotate" values="-28;28;-28" dur="4s" repeatCount="indefinite"/>
+<circle r="12" fill="#E8EEF7" stroke="#FF0000" stroke-width="4"/>
+<rect x="0" y="-9" width="105" height="18" rx="9" fill="#FF0000"/>
+<g transform="translate(105,0)"><g><animateTransform attributeName="transform" type="rotate" values="40;-30;40" dur="4s" repeatCount="indefinite"/>
+<circle r="9" fill="#E8EEF7" stroke="#FF0000" stroke-width="3"/>
+<rect x="0" y="-7" width="85" height="14" rx="7" fill="#E8EEF7"/>
+<g transform="translate(85,0)"><circle r="7" fill="#1E90FF"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 26;0 0" dur="2s" repeatCount="indefinite"/>
+<rect x="-5" y="0" width="10" height="40" fill="#1E90FF"/>
+<rect x="-13" y="40" width="8" height="14" rx="3" fill="#E8EEF7"/>
+<rect x="5" y="40" width="8" height="14" rx="3" fill="#E8EEF7"/></g>
+</g></g></g></g></g>
+</svg>
