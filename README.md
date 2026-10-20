@@ -4,22 +4,22 @@
 <img src="./assets/robotics-banner.svg" width="100%" alt="Animated Humanoid and Robot Arm"/>
 
 <!-- ANIMATED TYPING: YOUR 3 ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=500&center=true&width=750&color=1E90FF&lines=👁️+Computer+Vision+Engineer;🤖+Robotics+Software+Engineer;🦾+Robot+Body+Development+Engineer" alt="Typing Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=500&center=true&width=750&color=1E90FF&lines=Computer+Vision+Engineer;Robotics+Software+Engineer;Robot+Body+Development+Engineer" alt="Typing Roles"/>
 
-## 📡 DIRECT UPLINK
+## DIRECT UPLINK
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Bilgar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/adarsh-bilgar-94b525261)
 [![Email](https://img.shields.io/badge/Email-koshisatoma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:koshisatoma@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_9036579993-34A853?style=for-the-badge&logo=googlevoice&logoColor=FFFFFF)](tel:+919036579993)
 
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
-# ⚔️ THE ARSENAL
-*Battle-tested for Black Coffee Robotics • FloLabs International • Archon Robotics*
+# TECHNICAL ARSENAL
+*Epistemological frameworks optimized for Black Coffee Robotics / FloLabs International / Archon Robotics*
 
 ---
 
-## 👁️ ROLE 1: COMPUTER VISION ENGINEER
-*Perception is my native language — detection, tracking, SLAM, 3D vision, and edge deployment.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&repeat=false&center=true&width=620&color=FF0000&lines=COMPUTER+VISION+ENGINEER" alt="Computer Vision Engineer"/>
+
+*Stochastic perception manifolds, differentiable rendering pipelines, and real-time probabilistic state estimation for autonomous embodied agents.*
 
 **Core Vision Stack**
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://opencv.org/)
@@ -66,8 +66,9 @@
 
 ---
 
-## 🤖 ROLE 2: ROBOTICS SOFTWARE ENGINEER
-*Production-grade C++, ROS 2 middleware, simulation, and real-time control.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&repeat=false&center=true&width=620&color=1E90FF&lines=ROBOTICS+SOFTWARE+ENGINEER" alt="Robotics Software Engineer"/>
+
+*Deterministic middleware orchestration, differentiable simulation environments, and sub-millisecond control loop architectures for humanoid autonomy.*
 
 **Languages**
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
@@ -100,8 +101,9 @@
 
 ---
 
-## 🦾 ROLE 3: ROBOT BODY DEVELOPMENT
-*Mechanism design, manufacturing, embedded control, and actuation — from CAD to moving metal.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&repeat=false&center=true&width=680&color=FFFFFF&lines=ROBOT+BODY+DEVELOPMENT+ENGINEER" alt="Robot Body Development Engineer"/>
+
+*Topological mechanism synthesis, subtractive/additive manufacturing protocols, and field-oriented control architectures for high-bandwidth actuation systems.*
 
 **CAD & Design**
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=flat-square&logo=solidworks&logoColor=FFFFFF)](https://www.solidworks.com/)
@@ -135,7 +137,7 @@
 
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
-## 📊 SYSTEM TELEMETRY
+## SYSTEM TELEMETRY
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=koshisatoma&theme=highcontrast&hide_border=true&bg_color=000000&title_color=1E90FF&text_color=FFFFFF&icon_color=FF0000&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=koshisatoma&theme=dark&hide_border=true&background=000000&stroke=1E90FF&ring=FF0000&fire=FF0000&currStreakLabel=1E90FF" alt="GitHub Streak"/>
 
