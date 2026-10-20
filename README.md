@@ -10,7 +10,7 @@
 
 ## 🎯 THE THREE PILLARS
 
-| 👁️ CV ENGINEER | 🤖 ROBOTICS SOFTWARE ENGINEER | 🦾 ROBOT BODY DEVELOPMENT |
+| CV ENGINEER | ROBOTICS SOFTWARE ENGINEER | ROBOT BODY DEVELOPMENT |
 |:---:|:---:|:---:|
 | Perception pipelines for machines that **SEE** | Middleware & control for machines that **THINK** | Mechanisms & actuators for machines that **MOVE** |
 | OpenCV • PCL • Open3D | ROS 2 • MoveIt • Nav2 | SolidWorks • FreeCAD • CadQuery |
@@ -20,10 +20,10 @@
 
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
-# 🛠️ THE ARSENAL: 16 DOMAINS OF PHYSICAL AI
+# THE ARSENAL: 16 DOMAINS OF PHYSICAL AI
 *Every badge uses the tool's official brand color. Click any badge to view official docs/source.*
 
-## 1. 💻 Core Languages & Computation
+## 1. Core Languages & Computation
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -35,7 +35,7 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
 
-## 2. 🤖 Robotics Middleware & Frameworks
+## 2. Robotics Middleware & Frameworks
 [![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=FFFFFF)](https://docs.ros.org/)
 [![ROS 1](https://img.shields.io/badge/ROS_1-22314E?style=flat-square&logo=ros&logoColor=FFFFFF)](http://wiki.ros.org/)
 [![MoveIt](https://img.shields.io/badge/MoveIt-005A8E?style=flat-square&logo=ros&logoColor=FFFFFF)](https://moveit.ros.org/)
@@ -48,7 +48,7 @@
 [![PX4](https://img.shields.io/badge/PX4-3FC0F0?style=flat-square&logo=px4&logoColor=FFFFFF)](https://px4.io/)
 [![ArduPilot](https://img.shields.io/badge/ArduPilot-1A1A1A?style=flat-square&logo=ardupilot&logoColor=FFFFFF)](https://ardupilot.org/)
 
-## 3. 🧊 Simulation, Physics & Digital Twins
+## 3. Simulation, Physics & Digital Twins
 [![NVIDIA Isaac](https://img.shields.io/badge/NVIDIA_Isaac-76B900?style=flat-square&logo=nvidia&logoColor=FFFFFF)](https://developer.nvidia.com/isaac)
 [![Omniverse](https://img.shields.io/badge/Omniverse-76B900?style=flat-square&logo=nvidiaomniverse&logoColor=FFFFFF)](https://developer.nvidia.com/omniverse)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-4285F4?style=flat-square&logo=deepmind&logoColor=FFFFFF)](https://mujoco.org/)
@@ -61,7 +61,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=FFFFFF)](https://www.mathworks.com/products/matlab.html)
 [![Simulink](https://img.shields.io/badge/Simulink-000000?style=flat-square&logo=mathworks&logoColor=FFD133)](https://www.mathworks.com/products/simulink.html)
 
-## 4. 👁️ Computer Vision, Perception & Sensors
+## 4. Computer Vision, Perception & Sensors
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://opencv.org/)
 [![PCL](https://img.shields.io/badge/PCL-1B1B1B?style=flat-square&logo=pointcloudlibrary&logoColor=FFFFFF)](https://pointclouds.org/)
 [![Open3D](https://img.shields.io/badge/Open3D-0073E8?style=flat-square&logo=python&logoColor=FFFFFF)](http://www.open3d.org/)
@@ -73,7 +73,7 @@
 [![ZED Stereolabs](https://img.shields.io/badge/ZED-0071BC?style=flat-square&logo=stereolabs&logoColor=FFFFFF)](https://www.stereolabs.com/)
 [![AprilTag](https://img.shields.io/badge/AprilTag-003366?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://april.eecs.umich.edu/software/apriltag)
 
-## 5. 🧠 Embodied AI, Learning & Inference
+## 5. Embodied AI, Learning & Inference
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF)](https://pytorch.org/)
 [![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=FFFFFF)](https://developer.nvidia.com/tensorrt)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=FFFFFF)](https://developer.nvidia.com/cuda-zone)
@@ -84,7 +84,7 @@
 [![Weights & Biases](https://img.shields.io/badge/W&B-000000?style=flat-square&logo=weightsandbiases&logoColor=FFBE00)](https://wandb.ai/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=FFFFFF)](https://jupyter.org/)
 
-## 6. 📐 Mechanical Design & CAD
+## 6. Mechanical Design & CAD
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=flat-square&logo=solidworks&logoColor=FFFFFF)](https://www.solidworks.com/)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-CB0D0D?style=flat-square&logo=freecad&logoColor=FFFFFF)](https://www.freecad.org/)
 [![Onshape](https://img.shields.io/badge/Onshape-333333?style=flat-square&logo=onshape&logoColor=FFFFFF)](https://www.onshape.com/)
@@ -96,7 +96,7 @@
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=FFFFFF)](https://www.kicad.org/)
 [![Altium](https://img.shields.io/badge/Altium-000000?style=flat-square&logo=altium&logoColor=FFFFFF)](https://www.altium.com/)
 
-## 7. 🏭 Manufacturing, Prototyping & 3D Printing
+## 7. Manufacturing, Prototyping & 3D Printing
 [![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE1B?style=flat-square&logo=bambulab&logoColor=FFFFFF)](https://bambulab.com/)
 [![Prusa Research](https://img.shields.io/badge/Prusa-FA6831?style=flat-square&logo=prusaresearch&logoColor=FFFFFF)](https://www.prusa3d.com/)
 [![Ultimaker](https://img.shields.io/badge/Ultimaker-28AFEA?style=flat-square&logo=ultimaker&logoColor=FFFFFF)](https://ultimaker.com/)
@@ -109,7 +109,7 @@
 [![FDM / FFF](https://img.shields.io/badge/FDM_FFF-FA6831?style=flat-square&logo=prusaresearch&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Fused_filament_fabrication)
 [![SLA Resin](https://img.shields.io/badge/SLA_Resin-000000?style=flat-square&logo=formlabs&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Stereolithography)
 
-## 8. 🧮 Mathematics, Optimization & Solvers
+## 8. Mathematics, Optimization & Solvers
 [![Pinocchio](https://img.shields.io/badge/Pinocchio-1E3A5F?style=flat-square&logo=python&logoColor=FFFFFF)](https://github.com/stack-of-tasks/pinocchio)
 [![OSQP](https://img.shields.io/badge/OSQP-0E4C92?style=flat-square&logo=python&logoColor=FFFFFF)](https://osqp.org/)
 [![CasADi](https://img.shields.io/badge/CasADi-005F8B?style=flat-square&logo=python&logoColor=FFFFFF)](https://web.casadi.org/)
@@ -119,7 +119,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=000000)](https://scipy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
 
-## 9. ⚡ Motor Control, Actuation & Power
+## 9. Motor Control, Actuation & Power
 [![BLDC Motors](https://img.shields.io/badge/BLDC-005A9C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor)
 [![Field Oriented Control](https://img.shields.io/badge/FOC-003366?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Vector_control_(motor))
 [![ODrive](https://img.shields.io/badge/ODrive-1A1A1A?style=flat-square&logo=python&logoColor=FFD43B)](https://odriverobotics.com/)
@@ -129,7 +129,7 @@
 [![Series Elastic Actuators](https://img.shields.io/badge/SEA-22314E?style=flat-square&logo=ros&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Series_elastic_actuator)
 [![Quasi-Direct Drive](https://img.shields.io/badge/QDD-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Electric_motor)
 
-## 10. 🔌 Embedded Systems & Microcontrollers
+## 10. Embedded Systems & Microcontrollers
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=FFFFFF)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=FFFFFF)](https://www.espressif.com/en/products/socs/esp32)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=FFFFFF)](https://www.raspberrypi.com/)
@@ -141,7 +141,7 @@
 [![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=FFFFFF)](https://www.arm.com/)
 [![Jetson Orin](https://img.shields.io/badge/Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=FFFFFF)](https://developer.nvidia.com/embedded/jetson-orin)
 
-## 11. ⏱️ RTOS & REAL-TIME ENVIRONMENTS
+## 11. RTOS & REAL-TIME ENVIRONMENTS
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-FF9900?style=flat-square&logo=freertos&logoColor=000000)](https://www.freertos.org/)
 [![Zephyr RTOS](https://img.shields.io/badge/Zephyr-005596?style=flat-square&logo=zephyr&logoColor=FFFFFF)](https://www.zephyrproject.org/)
 [![RT-Thread](https://img.shields.io/badge/RT_Thread-FF5500?style=flat-square&logo=c&logoColor=FFFFFF)](https://www.rt-thread.io/)
@@ -171,7 +171,7 @@
 [![Xenomai](https://img.shields.io/badge/Xenomai-204A87?style=flat-square&logo=linux&logoColor=FFFFFF)](https://xenomai.org/)
 [![RTAI](https://img.shields.io/badge/RTAI-CC2222?style=flat-square&logo=linux&logoColor=FFFFFF)](https://www.rtai.org/)
 
-## 12. 📡 Communication Protocols & Hardware Buses
+## 12. Communication Protocols & Hardware Buses
 [![CAN Bus](https://img.shields.io/badge/CAN-005A9C?style=flat-square&logo=ieee&logoColor=FFFFFF)](https://www.can-cia.org/)
 [![EtherCAT](https://img.shields.io/badge/EtherCAT-007B23?style=flat-square&logo=ieee&logoColor=FFFFFF)](https://www.ethercat.org/)
 [![CANopen](https://img.shields.io/badge/CANopen-003366?style=flat-square&logo=ieee&logoColor=FFFFFF)](https://www.can-cia.org/can-knowledge/canopen/)
@@ -183,7 +183,7 @@
 [![MAVLink](https://img.shields.io/badge/MAVLink-3FC0F0?style=flat-square&logo=px4&logoColor=FFFFFF)](https://mavlink.io/)
 [![Modbus](https://img.shields.io/badge/Modbus-004B8D?style=flat-square&logo=ieee&logoColor=FFFFFF)](https://modbus.org/)
 
-## 13. 🤖 Robot Architectures & Morphologies
+## 13. Robot Architectures & Morphologies
 [![Humanoid](https://img.shields.io/badge/Humanoid-000000?style=flat-square&logo=ros&logoColor=FF0000)](https://en.wikipedia.org/wiki/Humanoid_robot)
 [![Quadruped](https://img.shields.io/badge/Quadruped-000000?style=flat-square&logo=ros&logoColor=1E90FF)](https://en.wikipedia.org/wiki/Quadrupedalism)
 [![Bipedal](https://img.shields.io/badge/Bipedal-000000?style=flat-square&logo=ros&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Bipedalism)
@@ -210,7 +210,7 @@
 [![Omni-Directional](https://img.shields.io/badge/Mecanum_Omni-000000?style=flat-square&logo=ros&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Mecanum_wheel)
 [![Wall-Climbing](https://img.shields.io/badge/Wall_Climb-000000?style=flat-square&logo=ros&logoColor=FF0000)](https://en.wikipedia.org/wiki/Wall-climbing_robot)
 
-## 14. 🐧 Operating Systems & Linux Distributions
+## 14. Operating Systems & Linux Distributions
 [![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=FFFFFF)](https://www.debian.org/)
@@ -220,7 +220,7 @@
 [![Yocto Project](https://img.shields.io/badge/Yocto-000000?style=flat-square&logo=yocto&logoColor=F5C518)](https://www.yoctoproject.org/)
 [![Buildroot](https://img.shields.io/badge/Buildroot-4B8BBE?style=flat-square&logo=buildroot&logoColor=FFFFFF)](https://buildroot.org/)
 
-## 15. 🚀 DevOps, CI/CD & Cloud Infrastructure
+## 15. DevOps, CI/CD & Cloud Infrastructure
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF)](https://github.com/features/actions)
@@ -232,7 +232,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/)
 
-## 16. 🗄️ Databases, Telemetry & Data Engineering
+## 16. Databases, Telemetry & Data Engineering
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=FFFFFF)](https://www.influxdata.com/)
 [![TimescaleDB](https://img.shields.io/badge/TimescaleDB-000000?style=flat-square&logo=timescale&logoColor=FDB515)](https://www.timescale.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
@@ -244,11 +244,11 @@
 
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
-## 📊 SYSTEM TELEMETRY
+## SYSTEM TELEMETRY
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=koshisatoma&theme=highcontrast&hide_border=true&bg_color=000000&title_color=1E90FF&text_color=FFFFFF&icon_color=FF0000&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=koshisatoma&theme=dark&hide_border=true&background=000000&stroke=1E90FF&ring=FF0000&fire=FF0000&currStreakLabel=1E90FF" alt="GitHub Streak"/>
 
-## 📡 DIRECT UPLINK
+## DIRECT UPLINK
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Bilgar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/adarsh-bilgar-94b525261)
 [![Email](https://img.shields.io/badge/Email-koshisatoma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:koshisatoma@gmail.com)
 
