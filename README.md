@@ -2,8 +2,6 @@
 
 <img src="./assets/robotics-banner.svg" width="100%" alt="Animated Humanoid and Robot Arm"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=500&center=true&width=750&color=1E90FF&lines=Computer+Vision+Engineer;Robotics+Software+Engineer;Robot+Body+Development+Engineer" alt="Typing Roles"/>
-
 ## DIRECT UPLINK
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Bilgar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/adarsh-bilgar-94b525261)
 [![Email](https://img.shields.io/badge/Email-koshisatoma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:koshisatoma@gmail.com)
