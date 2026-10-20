@@ -145,8 +145,8 @@
   </g>
 
   <!-- ===== CENTER TEXT ===== -->
-  <text x="600" y="120" text-anchor="middle" font-family="Consolas, monospace" font-size="54" font-weight="bold" fill="url(#nameGrad)">ADARSH BILGAR</text>
-  <text x="600" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="17" fill="#8fa3b8" letter-spacing="5">PHYSICAL AI • ROBOTICS • EMBODIED INTELLIGENCE</text>
+  <text x="600" y="120" text-anchor="middle" font-family="Consolas, monospace" font-size="54" font-weight="bold" fill="url(#nameGrad)">KOSHI SATOMA</text>
+  <text x="600" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="17" fill="#8fa3b8" letter-spacing="5">PHYSICAL AI • COMPUTER VISION • WORLD MODELS</text>
 
   <!-- ROTATING ROLES -->
   <text x="600" y="250" text-anchor="middle" font-family="Consolas, monospace" font-size="27" font-weight="bold" fill="#FF0000" opacity="0">
