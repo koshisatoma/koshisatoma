@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HUMANOID + ROBOT ARM BANNER -->
 <img src="./assets/robotics-banner.svg" width="100%" alt="Animated Humanoid and Robot Arm"/>
 
-<!-- ANIMATED TYPING: YOUR 3 ROLES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=500&center=true&width=750&color=1E90FF&lines=Computer+Vision+Engineer;Robotics+Software+Engineer;Robot+Body+Development+Engineer" alt="Typing Roles"/>
 
 ## DIRECT UPLINK
@@ -12,30 +10,35 @@
 
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
-# TECHNICAL ARSENAL
-*Epistemological frameworks optimized for Black Coffee Robotics / FloLabs International / Archon Robotics*
+<img src="./assets/quadruped.svg" width="32%" alt="Quadruped"/>
+<img src="./assets/amr.svg" width="32%" alt="AMR"/>
+<img src="./assets/drone.svg" width="32%" alt="UAV"/>
+
 
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&repeat=false&center=true&width=620&color=FF0000&lines=COMPUTER+VISION+ENGINEER" alt="Computer Vision Engineer"/>
 
-*Stochastic perception manifolds, differentiable rendering pipelines, and real-time probabilistic state estimation for autonomous embodied agents.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=400&center=true&width=820&height=70&color=FF0000&lines=Stochastic+perception+manifolds;differentiable+rendering+pipelines;real-time+probabilistic+state+estimation" alt="CV Description"/>
 
-**Core Vision Stack**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=260&color=FF0000&lines=CORE+VISION+STACK" alt="Core Vision Stack"/>
+
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://opencv.org/)
 [![Open3D](https://img.shields.io/badge/Open3D-0073E8?style=flat-square&logo=python&logoColor=FFFFFF)](http://www.open3d.org/)
 [![PCL](https://img.shields.io/badge/PCL-1B1B1B?style=flat-square&logo=pointcloudlibrary&logoColor=FFFFFF)](https://pointclouds.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=FFFFFF)](https://ai.google.dev/edge/mediapipe)
 [![scikit-image](https://img.shields.io/badge/scikit_image-000000?style=flat-square&logo=scikitlearn&logoColor=FFFFFF)](https://scikit-image.org/)
 
-**Deep Perception & Foundation Models**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=420&color=FF0000&lines=DEEP+PERCEPTION+%26+FOUNDATION+MODELS" alt="Deep Perception & Foundation Models"/>
+
 [![YOLO / Ultralytics](https://img.shields.io/badge/YOLO-111928?style=flat-square&logo=ultralytics&logoColor=FFFFFF)](https://www.ultralytics.com/)
 [![Detectron2](https://img.shields.io/badge/Detectron2-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)](https://github.com/facebookresearch/detectron2)
 [![SAM](https://img.shields.io/badge/Segment_Anything-000000?style=flat-square&logo=meta&logoColor=FFFFFF)](https://segment-anything.com/)
 [![CLIP](https://img.shields.io/badge/CLIP-000000?style=flat-square&logo=openai&logoColor=FFFFFF)](https://openai.com/research/clip)
 [![Grounding DINO](https://img.shields.io/badge/Grounding_DINO-005CED?style=flat-square&logo=python&logoColor=FFFFFF)](https://github.com/IDEA-Research/GroundingDINO)
 
-**SLAM, VIO & Tracking**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=320&color=FF0000&lines=SLAM%2C+VIO+%26+TRACKING" alt="SLAM, VIO & Tracking"/>
+
 [![ORB-SLAM3](https://img.shields.io/badge/ORB_SLAM3-003366?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 [![VINS-Fusion](https://img.shields.io/badge/VINS_Fusion-22314E?style=flat-square&logo=ros&logoColor=FFFFFF)](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
 [![RTAB-Map](https://img.shields.io/badge/RTAB_Map-0073E8?style=flat-square&logo=ros&logoColor=FFFFFF)](https://introlab.github.io/rtabmap/)
@@ -44,7 +47,8 @@
 [![DeepSORT](https://img.shields.io/badge/DeepSORT-0055D4?style=flat-square&logo=pytorch&logoColor=FFFFFF)](https://github.com/nwojke/deep_sort)
 [![Kalman Filter](https://img.shields.io/badge/Kalman_Filter-2C4F8C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Kalman_filter)
 
-**3D Vision & Geometry**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=320&color=FF0000&lines=3D+VISION+%26+GEOMETRY" alt="3D Vision & Geometry"/>
+
 [![NeRF](https://img.shields.io/badge/NeRF-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)](https://www.matthewtancik.com/nerf)
 [![3D Gaussian Splatting](https://img.shields.io/badge/3D_Gaussian_Splatting-814CE8?style=flat-square&logo=python&logoColor=FFFFFF)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 [![Camera Calibration](https://img.shields.io/badge/Camera_Calibration-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html)
@@ -53,7 +57,8 @@
 [![Optical Flow](https://img.shields.io/badge/Optical_Flow-0073E8?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Optical_flow)
 [![AprilTag](https://img.shields.io/badge/AprilTag-003366?style=flat-square&logo=opencv&logoColor=FFFFFF)](https://april.eecs.umich.edu/software/apriltag)
 
-**Sensors & Edge Deployment**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=360&color=FF0000&lines=SENSORS+%26+EDGE+DEPLOYMENT" alt="Sensors & Edge Deployment"/>
+
 [![Intel RealSense](https://img.shields.io/badge/RealSense-0068B5?style=flat-square&logo=intel&logoColor=FFFFFF)](https://www.intelrealsense.com/)
 [![ZED Stereolabs](https://img.shields.io/badge/ZED-0071BC?style=flat-square&logo=stereolabs&logoColor=FFFFFF)](https://www.stereolabs.com/)
 [![Ouster LiDAR](https://img.shields.io/badge/Ouster_LiDAR-000000?style=flat-square&logo=ouster&logoColor=FFFFFF)](https://ouster.com/)
@@ -64,19 +69,24 @@
 [![OpenVINO](https://img.shields.io/badge/OpenVINO-0068B5?style=flat-square&logo=intel&logoColor=FFFFFF)](https://docs.openvino.ai/)
 [![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=FFFFFF)](https://developer.nvidia.com/deepstream-sdk)
 
+<img src="./assets/radar.svg" width="48%" alt="Radar"/>
+<img src="./assets/snake.svg" width="48%" alt="Snake Robot"/>
+
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&repeat=false&center=true&width=620&color=1E90FF&lines=ROBOTICS+SOFTWARE+ENGINEER" alt="Robotics Software Engineer"/>
 
-*Deterministic middleware orchestration, differentiable simulation environments, and sub-millisecond control loop architectures for humanoid autonomy.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=400&center=true&width=820&height=70&color=1E90FF&lines=Deterministic+middleware+orchestration;differentiable+simulation+environments;sub-millisecond+control+loop+architectures" alt="RSE Description"/>
 
-**Languages**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=180&color=1E90FF&lines=LANGUAGES" alt="Languages"/>
+
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
 
-**Middleware & Simulation**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=360&color=1E90FF&lines=MIDDLEWARE+%26+SIMULATION" alt="Middleware & Simulation"/>
+
 [![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=FFFFFF)](https://docs.ros.org/)
 [![MoveIt](https://img.shields.io/badge/MoveIt-005A8E?style=flat-square&logo=ros&logoColor=FFFFFF)](https://moveit.ros.org/)
 [![Nav2](https://img.shields.io/badge/Nav2-264C94?style=flat-square&logo=ros&logoColor=FFFFFF)](https://nav2.org/)
@@ -88,7 +98,8 @@
 [![Pinocchio](https://img.shields.io/badge/Pinocchio-1E3A5F?style=flat-square&logo=python&logoColor=FFFFFF)](https://github.com/stack-of-tasks/pinocchio)
 [![OSQP](https://img.shields.io/badge/OSQP-0E4C92?style=flat-square&logo=python&logoColor=FFFFFF)](https://osqp.org/)
 
-**Real-Time, AI & DevOps**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=360&color=1E90FF&lines=REAL-TIME%2C+AI+%26+DEVOPS" alt="Real-Time, AI & DevOps"/>
+
 [![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com/)
 [![PREEMPT_RT](https://img.shields.io/badge/PREEMPT_RT-000000?style=flat-square&logo=linux&logoColor=FCC624)](https://wiki.linuxfoundation.org/realtime/preempt_rt_versions)
@@ -99,13 +110,18 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF)](https://github.com/features/actions)
 [![Jetson Orin](https://img.shields.io/badge/Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=FFFFFF)](https://developer.nvidia.com/embedded/jetson-orin)
 
+<img src="./assets/delta.svg" width="32%" alt="Delta Robot"/>
+<img src="./assets/scara.svg" width="32%" alt="SCARA"/>
+<img src="./assets/gears.svg" width="32%" alt="Gear Train"/>
+
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&repeat=false&center=true&width=680&color=FFFFFF&lines=ROBOT+BODY+DEVELOPMENT+ENGINEER" alt="Robot Body Development Engineer"/>
 
-*Topological mechanism synthesis, subtractive/additive manufacturing protocols, and field-oriented control architectures for high-bandwidth actuation systems.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=400&center=true&width=820&height=70&color=FFFFFF&lines=Topological+mechanism+synthesis;subtractive%2Fadditive+manufacturing+protocols;field-oriented+control+architectures" alt="RBD Description"/>
 
-**CAD & Design**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=220&color=FFFFFF&lines=CAD+%26+DESIGN" alt="CAD & Design"/>
+
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=flat-square&logo=solidworks&logoColor=FFFFFF)](https://www.solidworks.com/)
 [![Fusion 360](https://img.shields.io/badge/Fusion_360-000000?style=flat-square&logo=autodesk&logoColor=0696D7)](https://www.autodesk.com/products/fusion-360/)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-CB0D0D?style=flat-square&logo=freecad&logoColor=FFFFFF)](https://www.freecad.org/)
@@ -113,7 +129,8 @@
 [![Onshape](https://img.shields.io/badge/Onshape-333333?style=flat-square&logo=onshape&logoColor=FFFFFF)](https://www.onshape.com/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=FFFFFF)](https://www.blender.org/)
 
-**Manufacturing & Prototyping**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=400&color=FFFFFF&lines=MANUFACTURING+%26+PROTOTYPING" alt="Manufacturing & Prototyping"/>
+
 [![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE1B?style=flat-square&logo=bambulab&logoColor=FFFFFF)](https://bambulab.com/)
 [![Prusa](https://img.shields.io/badge/Prusa-FA6831?style=flat-square&logo=prusaresearch&logoColor=FFFFFF)](https://www.prusa3d.com/)
 [![Formlabs SLA](https://img.shields.io/badge/Formlabs_SLA-000000?style=flat-square&logo=formlabs&logoColor=FFFFFF)](https://formlabs.com/)
@@ -121,7 +138,8 @@
 [![Sheet Metal](https://img.shields.io/badge/Sheet_Metal-6D7B8D?style=flat-square&logo=solidworks&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Sheet_metal)
 [![Carbon Fiber](https://img.shields.io/badge/Carbon_Fiber-1A1A1A?style=flat-square&logo=autodesk&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Carbon-fiber-reinforced_polymers)
 
-**Embedded, Actuators & Buses**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1500&pause=200&repeat=false&center=true&width=400&color=FFFFFF&lines=EMBEDDED%2C+ACTUATORS+%26+BUSES" alt="Embedded, Actuators & Buses"/>
+
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=FFFFFF)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=FFFFFF)](https://www.espressif.com/en/products/socs/esp32)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-FF9900?style=flat-square&logo=freertos&logoColor=000000)](https://www.freertos.org/)
@@ -135,10 +153,14 @@
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=FFFFFF)](https://www.kicad.org/)
 [![Altium](https://img.shields.io/badge/Altium-000000?style=flat-square&logo=altium&logoColor=FFFFFF)](https://www.altium.com/)
 
+<img src="./assets/humanoid-walk.svg" width="32%" alt="Walking Humanoid"/>
+<img src="./assets/hexapod.svg" width="32%" alt="Hexapod"/>
+<img src="./assets/conveyor.svg" width="32%" alt="Conveyor Cell"/>
+
 <img src="./assets/robot-divider.svg" width="100%" alt="divider"/>
 
 ## SYSTEM TELEMETRY
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=koshisatoma&theme=highcontrast&hide_border=true&bg_color=000000&title_color=1E90FF&text_color=FFFFFF&icon_color=FF0000&show_icons=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=koshisatoma&theme=highcontrast&hide_border=true&bg_color=000000&title_color=1E90FF&text_color=FFFFFF&icon_color=FF0000&show_icons=true&rank_icon=percentile" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=koshisatoma&theme=dark&hide_border=true&background=000000&stroke=1E90FF&ring=FF0000&fire=FF0000&currStreakLabel=1E90FF" alt="GitHub Streak"/>
 
 </div>
